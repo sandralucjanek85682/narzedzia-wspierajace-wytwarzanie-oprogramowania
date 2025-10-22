@@ -15,7 +15,7 @@ Każda nowa zmiana powinna być na nowym branchu. Korzystaj z następujących na
 ## Styl kodu 
 - Unikaj duplikacji kodu
 - Dodawaj komentarze do bardziej skomplikowanych fragmentów kodu
-- używaj czye=telnego kodu i komentarzy tam, gdzie potrzeba
+- używaj czytelnego kodu i komentarzy tam, gdzie potrzeba
 - JS: jeśli kod rośnie, rozbij go na moduły
 - CSS: grupuj style według sekcji
 
