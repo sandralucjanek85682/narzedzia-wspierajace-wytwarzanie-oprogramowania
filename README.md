@@ -1,5 +1,5 @@
 # ZOO online
-**zoo online** to prosta strona internetowa prezentująca wirtualne zoo.
+**zoo online** to prosta strona internetowa prezentująca wirtualne zoo, dostępna na [GitHub Pages](https://sandralucjanek85682.github.io/narzedzia-wspierajace-wytwarzanie-oprogramowania/)
 
 ## Spis treści
   - [Opis projektu](#opis-projektu)
